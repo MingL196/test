@@ -1,0 +1,24 @@
+[2019-08-21 13:46:01.723] [jointLog] [info] parsing read library format
+[2019-08-21 13:46:02.173] [jointLog] [info] Loading Quasi index
+[2019-08-21 13:46:10.094] [jointLog] [info] done
+[2019-08-21 13:55:27.155] [jointLog] [info] Gathered fragment lengths from all threads
+[2019-08-21 13:55:27.187] [jointLog] [info] Building empirical fragment length distribution
+[2019-08-21 13:55:27.187] [jointLog] [info] finished building empirical fragment length distribution
+[2019-08-21 13:55:27.187] [jointLog] [info] Estimating effective lengths
+[2019-08-21 13:55:27.187] [jointLog] [info] Emp. dist min = 0, Emp. dist max = 999
+[2019-08-21 13:55:27.505] [jointLog] [info] Computed 290633 rich equivalence classes for further processing
+[2019-08-21 13:55:27.505] [jointLog] [info] Counted 19409074 total reads in the equivalence classes 
+[2019-08-21 13:55:27.509] [jointLog] [info] Computed 0 rich equivalence classes for further processing
+[2019-08-21 13:55:27.509] [jointLog] [info] Counted 0 total reads in the equivalence classes 
+[2019-08-21 13:55:27.518] [jointLog] [info] Computed 12612 rich equivalence classes for further processing
+[2019-08-21 13:55:27.518] [jointLog] [info] Counted 35678 total reads in the equivalence classes 
+[2019-08-21 13:55:27.638] [jointLog] [info] Computed 216483 rich equivalence classes for further processing
+[2019-08-21 13:55:27.638] [jointLog] [info] Counted 867434 total reads in the equivalence classes 
+[2019-08-21 13:55:27.647] [jointLog] [info] Computed 10712 rich equivalence classes for further processing
+[2019-08-21 13:55:27.647] [jointLog] [info] Counted 35712 total reads in the equivalence classes 
+[2019-08-21 13:55:27.651] [jointLog] [info] Computed 4078 rich equivalence classes for further processing
+[2019-08-21 13:55:27.651] [jointLog] [info] Counted 5028 total reads in the equivalence classes 
+[2019-08-21 13:55:27.769] [jointLog] [info] Computed 220239 rich equivalence classes for further processing
+[2019-08-21 13:55:27.769] [jointLog] [info] Counted 872462 total reads in the equivalence classes 
+[2019-08-21 13:55:27.769] [jointLog] [info] Start to export fusion-equivalence classes:
+
